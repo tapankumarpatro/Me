@@ -7,7 +7,7 @@
 
 * 📱 Always glad to work on Image based and NLP problem's
 
-* 🐶 Only Machine learning you say! No... 
+* 🐶  Only Machine learning you say! No... 
     * 1. I love to automate stuffs with python
     * 2. I have my own Android apps that we can use in day to day life, with Deep learning.
     * 3. And yes, i always look for challenging problem to resolve with AI.
