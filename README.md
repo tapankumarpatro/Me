@@ -1,7 +1,7 @@
 ### Hi there, I am Tapan Kumar Patro 👋
 
 
-#### An Aspiring Machine learning engineer 🚀 
+#### Senior Machine learning engineer @Quantiphi 🚀 
 
 ## About Me 🤷🏻‍♂️
 
@@ -12,7 +12,7 @@
     * 2. I have my own Android apps that we can use in day to day life, with Deep learning.
     * 3. And yes, i always look for challenging problem to resolve with AI.
 
-* 🚀 A medium writer [@Analytics Vidhya](https://medium.com/@tapankumarpatro05)
+* 🚀 A medium writer [@Analytics Vidhya](https://medium.com/@tapanpatro)
 
 
 ## Reach me via 👇
